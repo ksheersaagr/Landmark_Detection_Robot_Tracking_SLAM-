@@ -10,6 +10,7 @@ There is a large variety of SLAM (Simultaneous Localization and Mapping) approac
 The project is structured as a series of Jupyter notebooks that are written in Python and designed to be completed in sequential order:
 
 robot_class.py
+
 Notebook 1 : Robot Moving and Sensing;
 
 Notebook 2 : Omega and Xi, Constraints;
